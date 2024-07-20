@@ -1,7 +1,6 @@
 # ML-Projects
 ---
-### Overview
----
+# Overview
 This repository is dedicated to showcasing machine learning projects developed for various applications during the university curriculum.
 <hr>
 ### 1. House Price Prediction:<br>
