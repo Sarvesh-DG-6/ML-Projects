@@ -1,2 +1,4 @@
 # ML-Projects
-University course projects and lab experiments
+---
+# Overview
+This repository is dedicated to showcasing machine learning projects developed for various applications during the university curriculum
